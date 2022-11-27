@@ -52,7 +52,7 @@ img {
 
 @media only screen and (max-width: 1440px) {
     .box {
-        margin-top: 20vh;
+        margin-top: 10vh;
     }
 }
 @media only screen and (max-width: 875px) {
